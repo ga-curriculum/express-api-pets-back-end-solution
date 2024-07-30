@@ -7,7 +7,7 @@ const mongoose = require('mongoose');
 
 const petRouter = require('./controllers/pets.js');
 
-mongoose.connect(process.env.DATABASE_URL);
+mongoose.connect(process.env.MONGODB_URI);
 
 mongoose.connection.on('connected', () => {
     console.log(`Connected to MongoDB ${mongoose.connection.name}.`);
