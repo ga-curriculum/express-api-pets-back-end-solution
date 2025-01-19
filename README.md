@@ -22,4 +22,4 @@ and add your MongoDB URI to it. It will look something like this, but with your 
 MONGODB_URI=mongodb+srv://<username>:<password>@sei-w0kys.azure.mongodb.net/pets?retryWrites=true
 ```
 
-Start the app with `nodemon`.
+Start the app with `npm run dev`.
