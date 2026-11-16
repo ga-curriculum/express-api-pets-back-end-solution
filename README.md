@@ -2,7 +2,7 @@
 
 ## About
 
-This repo contains the solution code for the [Express REST API Pets](https://git.generalassemb.ly/modular-curriculum-all-courses/express-rest-api-pets) lecture.
+This repo contains the solution code for the [Express REST API Pets](https://github.com/ga-curriculum/express-api-pets-back-end) lecture.
 
 ## Getting started
 
